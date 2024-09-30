@@ -1,6 +1,6 @@
 package skylinetools.util;
 
-import beast.core.*;
+import beast.base.core.*;
 import beast.base.inference.parameter.Parameter;
 import beast.base.inference.parameter.RealParameter;
 import beast.base.evolution.tree.Node;
